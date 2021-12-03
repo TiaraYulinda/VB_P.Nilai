@@ -1,0 +1,150 @@
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Dosen.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.DataDosen.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\Permintaan Program\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.DataDosen.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Dosen.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\Permintaan Program\2 vbnet\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.DataDosen.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Dosen.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\koleksi program vb.net\Aplikasi Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.FrmDosen.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.FrmDosen.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\data jual satuan vbnet access\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\data Buku VB\Buku VBNet 11\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\data Buku VB\Buku VBNet 11\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\data Buku VB\Buku VBNet 11\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.FrmDosen.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\d2\Bonus CD VBnet\3 Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.FrmDosen.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.exe
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.pdb
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\bin\Debug\Aplikasi Pengolahan Nilai.xml
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\ResolveAssemblyReference.cache
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.FrmDosen.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanMaster.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.LaporanNilai.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Login.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MenuUtama.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Resources.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Nilai.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.MataKuliah.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.Mahasiswa.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi_Pengolahan_Nilai.User.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pengolahan Nilai\Aplikasi Pengolahan Nilai\obj\Debug\Aplikasi Pengolahan Nilai.vbproj.GenerateResource.Cache
